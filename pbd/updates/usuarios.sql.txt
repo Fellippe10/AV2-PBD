@@ -1,3 +1,0 @@
-UPDATE Usuarios
-SET telefone = '7777-6666', email = 'joao.novo@email.com'
-WHERE id = 1; /* Supondo que o ID do João seja 1 */
